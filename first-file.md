@@ -19,3 +19,5 @@ aaa
 jkjk
 
 [[first-file]]
+
+[[]]
