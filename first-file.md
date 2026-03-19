@@ -10,3 +10,6 @@ this is the first file
 
 ### change from app title 
 - yayayaya
+
+### change with the fixed app
+- ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyayayay
