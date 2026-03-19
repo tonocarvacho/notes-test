@@ -3,3 +3,5 @@
 [link]
 
 [[first-file]]
+
+[[second-file]]
